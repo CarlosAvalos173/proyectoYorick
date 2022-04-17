@@ -1,0 +1,23 @@
+[
+  {
+    "name": "plantilla",
+    "path": "/plantilla",
+    "component": "C:\\\\Users\\\\Solem\\\\Desktop\\\\Proyecto\\\\app\\\\pages\\\\plantilla.vue",
+    "chunkName": "pages/plantilla",
+    "_name": "_fbc47d98"
+  },
+  {
+    "name": "prueba",
+    "path": "/prueba",
+    "component": "C:\\\\Users\\\\Solem\\\\Desktop\\\\Proyecto\\\\app\\\\pages\\\\prueba.vue",
+    "chunkName": "pages/prueba",
+    "_name": "_1a7edf30"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Solem\\\\Desktop\\\\Proyecto\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_8ef2577a"
+  }
+]
